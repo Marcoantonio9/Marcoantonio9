@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Bem vindo ao meu perfil!
+
+Meu nome é Marco Antonio, sou estudante de Análise e Desenvolvimento de Sistemas.
