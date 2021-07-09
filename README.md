@@ -23,9 +23,11 @@ Tenho como foco principal o desenvolvimento Front-End, atualmente estudo e utili
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Sass</li>
   <li>Bootstrap</li>
   <li>Javascript</li>
   <li>Vue JS</li>
+  <li>React JS</li>
 </ul
 <hr>
 <a href="https://www.linkedin.com/in/marcoantonio1997/" target="_blank">
