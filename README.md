@@ -1,39 +1,38 @@
+<h1 align="center">Marco Antonio 🚀</h1>
 
+<p align="center">
+  Desenvolvedor Front-End | QA Automation | Analista e Desenvolvedor de Sistemas
+</p>
 
-<!--
-### Hi there 👋
-**Marcoantonio9/Marcoantonio9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>Marco Antonio 💻</h2>
-<hr>
-<h3>Bem-vindo ao meu perfil!</h3>
-Meu nome é Marco Antonio, sou estudante de Análise e Desenvolvimento de Sistemas. 
-<hr>
-Tenho como foco principal o desenvolvimento Front-End, atualmente estudo e utilizo as seguintes tecnologias: 
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Sass</li>
-  <li>Bootstrap</li>
-  <li>Javascript</li>
-  <li>Vue JS</li>
-  <li>React JS</li>
-</ul
-<hr>
-<a href="https://www.linkedin.com/in/marcoantonio1997/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 👨‍💻 Sobre mim
 
-<a href="mailto:marcojr918@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
- </a>
+Olá! Me chamo Marco Antonio e sou formado em Análise e Desenvolvimento de Sistemas.
+
+Atualmente atuo com Automação de testes, além de desenvolver projetos Front-End utilizando tecnologias modernas como React, TypeScript e Vue.js.
+
+Tenho interesse em criar interfaces modernas, responsivas e com foco em experiência do usuário, sempre buscando evoluir tecnicamente e aprender novas tecnologias.
+
+---
+
+## 🚀 Tecnologias que utilizo
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,vue,react,tailwind,nodejs,git" />
+
+</div>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/marcocustodiojr" target="_blank">
+    <img 
+      src="https://skillicons.dev/icons?i=linkedin" 
+      width="48"
+    />
+  </a>
+</p>
